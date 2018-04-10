@@ -1,0 +1,26 @@
+How to analyze UK parlimentary petition data using Power BI
+Problem:
+I want to analyze UK parlimentary petition data using Power BI. How this can be achieved and what are all the things, I need to consider ?
+
+Solution:
+UK Parliment allows general public to raise a petition online and anyone can vote(Signature) in the UK to support the petition. The petition details such the Petition details, no of signatures on the petition and other details are available
+to download using CSV or in JSON format. As the CSV files need to be downloaded
+
+https://docs.microsoft.com/en-us/power-bi/desktop-add-custom-column
+http://community.powerbi.com/t5/Developer/best-way-to-use-multiple-json-queries-with-M-for-total-records/td-p/306288
+http://petitionmap.unboxedconsulting.com/
+https://community.powerbi.com/t5/Desktop/Create-Your-Own-Custom-Map-for-Power-BI/td-p/165854
+
+Action
+Transfer amount to Paru
+Frankiln payment
+
+ICICI - 9500
+
+Paru ICICI - 5000
+Paru SBI - 37000
+Nat HS-1600
+Lloyds - 250
+SBI - 1400
+ICICI - UK - 1100
+
